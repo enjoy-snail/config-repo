@@ -14,5 +14,5 @@ spring:
     port: 6379
     password: 1234
 girl:
-name: mo
-age: 37
+  name: mo
+  age: 37
