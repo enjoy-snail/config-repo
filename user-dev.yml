@@ -4,7 +4,15 @@ spring:
     username: root
     password: root
     url: jdbc:mysql://192.168.32.252:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
+  rabbitmq:
+        host: 192.168.32.252
+        port: 5672
+        username: rabbitmq-user
+        password: rabbitmq-password
   redis:
     host: 192.168.32.252
     port: 6379
     password: 1234
+girl:
+name: mo
+age: 37
