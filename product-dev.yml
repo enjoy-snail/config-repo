@@ -15,4 +15,6 @@ spring:
     password: 1234
   jpa:
     show-sql: true
-girl: 18
+girl: 
+  name: haha
+  age: 18
