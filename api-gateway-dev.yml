@@ -5,8 +5,8 @@ spring:
         username: rabbitmq-user
         password: rabbitmq-password
 girl:
-  name: mo
-  age: 37
+  name: mot
+  age: 17
   
 zuul:
   #全部服务忽略敏感头(全部服务都可以传递cookie)
