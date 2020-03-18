@@ -11,10 +11,7 @@ zuul:
 #    product: /myProduct/**
   #排除某些路由
   ignored-patterns:
-    - /**/product/listForOrder 
-management:
-  security:
-    enabled: false    
+    - /**/product/listForOrder   
 ribbon:
   ReadTimeout: 5000
   SocketTimeout: 5000
