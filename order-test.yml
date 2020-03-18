@@ -16,7 +16,7 @@ spring:
     port: 6379
     password: 1234
 env:
-  test111222333555444
+  test111222333444
 girl:
   name: mo
   age: 17
