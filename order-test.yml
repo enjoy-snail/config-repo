@@ -18,8 +18,8 @@ spring:
 env:
   test1122
 girl:
-  name: mo
-  age: 37
+  name: mot
+  age: 27
 feign:
   client:
     config:
