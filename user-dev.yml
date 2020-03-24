@@ -1,6 +1,5 @@
 spring:
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: JDWL_20160129@
     url: jdbc:mysql://192.168.10.150:13306/springcloud_sell?characterEncoding=utf-8&useSSL=false
